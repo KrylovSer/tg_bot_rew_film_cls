@@ -1,0 +1,7 @@
+aiogram
+pydantic
+torch
+nltk
+numpy
+aiohttp
+aiofiles
